@@ -1,5 +1,5 @@
 # PhD-Thesis-and-Images
-Here lies one of the final resting place(s) of the version of my thesis that was submitted to the University of Glasgow on the 6th January 2021, free for anyone to access. 
+Here lies one of the final resting place(s) of the version of my thesis that was submitted to the University of Glasgow on the 6th January 2021, free for anyone to access. It's a big boy, some 30MB, so it might be hard to transport around, so for that I humbly apologise. 
 
 The Thesis is also available from the University of Glasgow directly here: http://theses.gla.ac.uk/81897/
 
