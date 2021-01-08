@@ -14,6 +14,7 @@ A copy can be downloaded for personal non-commercial research or study, without 
 This work cannot be reproduced or quoted extensively from without first obtaining permission in writing from the author. The content must not be changed in any way or sold commercially in any format or medium without the formal permission of the author. When referring to this work, full bibliographic details including the author, title, awarding institution and date of the thesis must be given.
 ___________________________________________________________
 
+## Images
 The images in this folder in this repository are ones that I have created myself. These are free for you to use but please use the following reference. 
 ~~~
 @book{SpiteriVHbbPhDThesis,
@@ -25,3 +26,8 @@ The images in this folder in this repository are ones that I have created myself
       url           = "http://theses.gla.ac.uk/id/eprint/81897",
 }
 ~~~
+
+## Useful Links for writing your own thesis.
+Thanks go to my good friend Eshwen Bhal for allowing me to extract some things I liked from his [thesis template](https://github.com/eshwen/phd-thesis). This repository also contains an edited version of my .tex file which I used to compile the document.
+
+Good advice on actually writing the thesis, or any such scientific document can be seen [here](https://zenodo.org/record/3228336). Written by Andy Buckley. 
