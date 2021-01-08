@@ -28,6 +28,6 @@ The images in this folder in this repository are ones that I have created myself
 ~~~
 
 ## Useful Links for writing your own thesis.
-Thanks go to my good friend Eshwen Bhal for allowing me to extract some things I liked from his [thesis template](https://github.com/eshwen/phd-thesis). This repository also contains an edited version of my .tex file which I used to compile the document.
+If you like some of the things I did in my thesis you are more than welcome to download my template from my [Tex Templates Directory](https://github.com/Spitfire-Frozone/Tex-Templates). I must also thank my good friend Eshwen Bhal for allowing me to extract some things I liked from his [thesis template](https://github.com/eshwen/phd-thesis).
 
 Good advice on actually writing the thesis, or any such scientific document can be seen [here](https://zenodo.org/record/3228336). Written by Andy Buckley. 
