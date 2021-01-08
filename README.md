@@ -14,8 +14,8 @@ A copy can be downloaded for personal non-commercial research or study, without 
 This work cannot be reproduced or quoted extensively from without first obtaining permission in writing from the author. The content must not be changed in any way or sold commercially in any format or medium without the formal permission of the author. When referring to this work, full bibliographic details including the author, title, awarding institution and date of the thesis must be given.
 ___________________________________________________________
 
-## Images
-The images in this folder in this repository are ones that I have created myself. These are free for you to use but please use the following reference. 
+## Reference
+If you want to quote parts of the text, you are free for you to use but please use the following reference. 
 ~~~
 @book{SpiteriVHbbPhDThesis,
       author        = "Spiteri, D",
