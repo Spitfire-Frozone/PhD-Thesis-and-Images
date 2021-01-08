@@ -26,6 +26,6 @@ If you want to quote parts of the text, you are free for you to use but please u
 ~~~
 
 ## Useful Links for writing your own thesis.
-If you like some of the things I did in my thesis you are more than welcome to download my template from my [Tex Templates Directory](https://github.com/Spitfire-Frozone/Tex-Templates). I must also thank my good friend Eshwen Bhal for allowing me to extract some things I liked from his [thesis template](https://github.com/eshwen/phd-thesis).
+If you like some of the things I did in my thesis you are more than welcome to download my template from my [Tex Templates Directory](https://github.com/Spitfire-Frozone/Tex-Templates).
 
 Good advice on actually writing the thesis, or any such scientific document can be seen [here](https://zenodo.org/record/3228336). Written by Andy Buckley. 
