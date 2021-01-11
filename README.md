@@ -1,7 +1,7 @@
 # PhD-Thesis-and-Images
 Here lies one of the final resting place(s) of the version of my thesis that was submitted to the University of Glasgow on the 6th January 2021, free for anyone to access. It's a big boy, some 30MB, so it might be hard to transport around, so for that I humbly apologise. 
 
-The Thesis is also available from the [University of Glasgow](http://theses.gla.ac.uk/81897/) and from the [CERN Document Server](https://cds.cern.ch/record/2748871).
+The thesis is also available from the [University of Glasgow](http://theses.gla.ac.uk/81897/) and from the [CERN Document Server](https://cds.cern.ch/record/2748871).
 ___________________________________________________________
 
 
@@ -13,7 +13,7 @@ This work cannot be reproduced or quoted extensively from without first obtainin
 ___________________________________________________________
 
 ## Reference
-If you want to quote parts of the text, you are free for you to use but please use the following reference. 
+If you want to quote parts of the text, you are free to do so but please use the following reference. 
 ~~~
 @book{SpiteriVHbbPhDThesis,
       author        = "Spiteri, D",
