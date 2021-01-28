@@ -20,7 +20,8 @@ If you want to quote parts of the text, you are free to do so but please use the
       title         = "Higgs boson studies: associated production with a vector boson and decay into b-quarks using the ATLAS Run-2 dataset",
       collaboration = "ATLAS",
       year          = "2021",
-      note          = "Doctoral Thesis",
+      month         = "01",
+      note          = "Doctoral Thesis - Awarded by the University of Glasgow",
       url           = "http://theses.gla.ac.uk/id/eprint/81897",
 }
 ~~~
